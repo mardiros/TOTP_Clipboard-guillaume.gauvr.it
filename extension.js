@@ -47,6 +47,7 @@ const TrayButton = new Lang.Class({
         let icon = new St.Icon({'icon_name': 'channel-secure-symbolic',
                                 'style_class': 'system-status-icon' });
         this.actor.add_actor(icon);
+        this._add_menu();
     },
 
     _onButtonPress: function(actor, event) {
