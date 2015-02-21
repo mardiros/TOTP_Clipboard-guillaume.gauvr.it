@@ -1,5 +1,14 @@
-Gnome Shell Extension for 2 Factors logins using TOTP
-=====================================================
+2FA Gnome Shell Extension
+=========================
+
+TOTP 2 Factor Authentication made simple for
+Gnome Shell users.
+
+This extension display a clickable padlock in the topbar,
+that display a menu of configured TOTP Seeds.
+
+A click on an item copy the current token for the seed
+in the clipboard.
 
 
 Installation
