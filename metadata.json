@@ -1,1 +1,1 @@
-{"shell-version": ["3.8.4", "3.10", "3.12", "3.14", "3.16"], "uuid": "TOTP_Clipboard@guillaume.gauvr.it", "name": "TOTP Clipboard", "description": "TOTP Token in the clipboard"}
+{"shell-version": ["3.8.4", "3.10", "3.12", "3.14", "3.16", "3.18"], "uuid": "TOTP_Clipboard@guillaume.gauvr.it", "name": "TOTP Clipboard", "description": "TOTP Token in the clipboard"}
